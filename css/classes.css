@@ -1,0 +1,33 @@
+.tiny-label {
+  font: 12px 'AdelleSans-Bold', 'Helvetica Neue', Arial, sans-serif;
+  text-transform: uppercase;
+  -webkit-font-smoothing: auto;
+  letter-spacing: .075em;
+  text-rendering: optimizeLegibility;
+}
+.box-sizing {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.image-replace {
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  display: block;
+}
+.tuning {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+.background-cover {
+  background-position-y: center;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
