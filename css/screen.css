@@ -1,7 +1,7 @@
 body {
-  background-color: #29292C;
-  color:#e2e2f1;
-  font-family: AdelleSans-Light,'TiemposText-Regular', 'Times New Roman',serif;
+  background-color:rgb(26, 29, 31);
+  color:rgb(226, 226, 241);
+  font-family: 'TiemposText-Regular', 'Times New Roman',serif;
 }
 
 a,a:visited {
